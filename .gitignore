@@ -1,0 +1,5 @@
+# Raw textbook PDFs (keep local, don't track on git)
+หน่วยที่*.pdf
+*.tmp
+.DS_Store
+Thumbs.db
